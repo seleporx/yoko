@@ -1,4 +1,4 @@
 Yoko
 ====
 
-!!Inventory Sys. Libary Package
+Inventory Sys. Libary Package
